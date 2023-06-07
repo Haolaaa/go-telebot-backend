@@ -1,0 +1,1 @@
+[admin/server]2023/06/07 - 17:44:00.411	[31merror[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:20	accept tcp [::]:8888: use of closed network connection

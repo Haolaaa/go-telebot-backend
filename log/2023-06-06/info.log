@@ -1,0 +1,87 @@
+[admin/server]2023/06/06 - 10:47:47.673	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/gorm.go:76	register table success
+[admin/server]2023/06/06 - 10:48:06.994	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/gorm.go:76	register table success
+[admin/server]2023/06/06 - 10:48:13.101	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/gorm.go:76	register table success
+[admin/server]2023/06/06 - 10:51:36.932	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/gorm.go:76	register table success
+[admin/server]2023/06/06 - 10:51:36.932	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:20	register swagger handler
+[admin/server]2023/06/06 - 10:51:36.933	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:39	router register success
+[admin/server]2023/06/06 - 10:51:36.933	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:19	admin: admin服务启动成功，端口为:8888
+[admin/server]2023/06/06 - 10:58:32.359	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/gorm.go:76	register table success
+[admin/server]2023/06/06 - 10:58:32.360	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:20	register swagger handler
+[admin/server]2023/06/06 - 10:58:32.360	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:39	router register success
+[admin/server]2023/06/06 - 10:58:32.360	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:19	admin: admin服务启动成功，端口为:8888
+[admin/server]2023/06/06 - 11:05:52.054	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/gorm.go:76	register table success
+[admin/server]2023/06/06 - 11:05:52.054	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:20	register swagger handler
+[admin/server]2023/06/06 - 11:05:52.054	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:39	router register success
+[admin/server]2023/06/06 - 11:05:52.054	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:19	admin: admin服务启动成功，端口为:8888
+[admin/server]2023/06/06 - 11:22:00.266	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/gorm.go:76	register table success
+[admin/server]2023/06/06 - 11:22:00.267	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:20	register swagger handler
+[admin/server]2023/06/06 - 11:22:00.268	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:39	router register success
+[admin/server]2023/06/06 - 11:22:00.268	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:19	admin: admin服务启动成功，端口为:8888
+[admin/server]2023/06/06 - 11:28:50.010	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/gorm.go:76	register table success
+[admin/server]2023/06/06 - 11:28:50.011	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:20	register swagger handler
+[admin/server]2023/06/06 - 11:28:50.011	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:39	router register success
+[admin/server]2023/06/06 - 11:28:50.011	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:19	admin: admin服务启动成功，端口为:8888
+[admin/server]2023/06/06 - 12:03:15.584	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/gorm.go:76	register table success
+[admin/server]2023/06/06 - 12:03:15.584	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:19	register swagger handler
+[admin/server]2023/06/06 - 12:03:15.584	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:38	router register success
+[admin/server]2023/06/06 - 12:03:15.584	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:19	admin: admin服务启动成功，端口为:8888
+[admin/server]2023/06/06 - 12:04:18.228	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/gorm.go:76	register table success
+[admin/server]2023/06/06 - 12:04:18.229	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:20	register swagger handler
+[admin/server]2023/06/06 - 12:04:18.230	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:39	router register success
+[admin/server]2023/06/06 - 12:04:18.230	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:19	admin: admin服务启动成功，端口为:8888
+[admin/server]2023/06/06 - 12:04:37.160	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/gorm.go:76	register table success
+[admin/server]2023/06/06 - 12:04:37.160	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:20	register swagger handler
+[admin/server]2023/06/06 - 12:04:37.160	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:39	router register success
+[admin/server]2023/06/06 - 12:04:37.160	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:19	admin: admin服务启动成功，端口为:8888
+[admin/server]2023/06/06 - 12:08:51.877	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/gorm.go:76	register table success
+[admin/server]2023/06/06 - 12:08:51.878	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:21	register swagger handler
+[admin/server]2023/06/06 - 12:08:51.878	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:40	router register success
+[admin/server]2023/06/06 - 12:08:51.878	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:19	admin: admin服务启动成功，端口为:8888
+[admin/server]2023/06/06 - 12:09:34.482	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/gorm.go:76	register table success
+[admin/server]2023/06/06 - 12:09:34.482	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:21	register swagger handler
+[admin/server]2023/06/06 - 12:09:34.482	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:40	router register success
+[admin/server]2023/06/06 - 12:09:34.482	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:19	admin: admin服务启动成功，端口为:8888
+[admin/server]2023/06/06 - 12:51:17.984	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/gorm.go:76	register table success
+[admin/server]2023/06/06 - 12:51:17.985	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:21	register swagger handler
+[admin/server]2023/06/06 - 12:51:17.985	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:40	router register success
+[admin/server]2023/06/06 - 12:51:17.985	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:19	admin: admin服务启动成功，端口为:8888
+[admin/server]2023/06/06 - 12:51:36.138	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/gorm.go:76	register table success
+[admin/server]2023/06/06 - 12:51:36.139	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:21	register swagger handler
+[admin/server]2023/06/06 - 12:51:36.139	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:40	router register success
+[admin/server]2023/06/06 - 12:51:36.139	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:19	admin: admin服务启动成功，端口为:8888
+[admin/server]2023/06/06 - 13:06:16.476	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/gorm.go:76	register table success
+[admin/server]2023/06/06 - 13:06:16.477	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:21	register swagger handler
+[admin/server]2023/06/06 - 13:06:16.477	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:40	router register success
+[admin/server]2023/06/06 - 13:06:16.477	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:19	admin: admin服务启动成功，端口为:8888
+[admin/server]2023/06/06 - 13:13:01.939	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/gorm.go:76	register table success
+[admin/server]2023/06/06 - 13:13:01.939	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:21	register swagger handler
+[admin/server]2023/06/06 - 13:13:01.940	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:40	router register success
+[admin/server]2023/06/06 - 13:13:01.940	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:19	admin: admin服务启动成功，端口为:8888
+[admin/server]2023/06/06 - 15:50:22.934	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/gorm.go:76	register table success
+[admin/server]2023/06/06 - 15:50:22.934	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:21	register swagger handler
+[admin/server]2023/06/06 - 15:50:22.935	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:40	router register success
+[admin/server]2023/06/06 - 15:50:22.935	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:19	admin: admin服务启动成功，端口为:8888
+[admin/server]2023/06/06 - 15:52:27.072	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/gorm.go:76	register table success
+[admin/server]2023/06/06 - 15:52:27.072	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:21	register swagger handler
+[admin/server]2023/06/06 - 15:52:27.073	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:40	router register success
+[admin/server]2023/06/06 - 15:52:27.073	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:19	admin: admin服务启动成功，端口为:8888
+[admin/server]2023/06/06 - 16:29:55.430	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/gorm.go:76	register table success
+[admin/server]2023/06/06 - 16:29:55.431	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:21	register swagger handler
+[admin/server]2023/06/06 - 16:29:55.431	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:40	router register success
+[admin/server]2023/06/06 - 16:29:55.431	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:19	admin: admin服务启动成功，端口为:8888
+[admin/server]2023/06/06 - 16:42:00.020	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/gorm.go:76	register table success
+[admin/server]2023/06/06 - 16:42:00.020	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:21	register swagger handler
+[admin/server]2023/06/06 - 16:42:00.021	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:41	router register success
+[admin/server]2023/06/06 - 16:42:00.021	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:19	admin: admin服务启动成功，端口为:8888
+[admin/server]2023/06/06 - 17:10:57.514	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/gorm.go:76	register table success
+[admin/server]2023/06/06 - 17:10:57.515	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:21	register swagger handler
+[admin/server]2023/06/06 - 17:10:57.515	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:41	router register success
+[admin/server]2023/06/06 - 17:10:57.515	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:19	admin: admin服务启动成功，端口为:8888
+[admin/server]2023/06/06 - 17:20:07.385	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/gorm.go:76	register table success
+[admin/server]2023/06/06 - 17:20:07.385	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:21	register swagger handler
+[admin/server]2023/06/06 - 17:20:07.385	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:41	router register success
+[admin/server]2023/06/06 - 17:20:07.386	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:19	admin: admin服务启动成功，端口为:8888
+[admin/server]2023/06/06 - 17:23:14.118	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/gorm.go:76	register table success
+[admin/server]2023/06/06 - 17:23:14.119	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:21	register swagger handler
+[admin/server]2023/06/06 - 17:23:14.119	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/initialize/router.go:41	router register success
+[admin/server]2023/06/06 - 17:23:14.119	[34minfo[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:19	admin: admin服务启动成功，端口为:8888

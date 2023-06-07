@@ -1,0 +1,41 @@
+[admin/server]2023/06/06 - 10:45:31.619	[31merror[0m	/home/haola/workspace/fullstack/go-backend/initialize/gorm.go:73	register table failed	{"error": "Error 1067 (42000): Invalid default value for 'authority_id'"}
+[admin/server]2023/06/06 - 10:47:13.260	[31merror[0m	/home/haola/workspace/fullstack/go-backend/initialize/gorm.go:73	register table failed	{"error": "Error 1067 (42000): Invalid default value for 'authority_id'"}
+[admin/server]2023/06/06 - 10:58:29.470	[31merror[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:20	accept tcp [::]:8888: use of closed network connection
+[admin/server]2023/06/06 - 11:05:39.320	[31merror[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:20	accept tcp [::]:8888: use of closed network connection
+[admin/server]2023/06/06 - 11:17:39.992	[31merror[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:20	accept tcp [::]:8888: use of closed network connection
+[admin/server]2023/06/06 - 11:28:47.434	[31merror[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:20	accept tcp [::]:8888: use of closed network connection
+[admin/server]2023/06/06 - 12:03:11.997	[31merror[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:20	accept tcp [::]:8888: use of closed network connection
+[admin/server]2023/06/06 - 12:04:16.122	[31merror[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:20	accept tcp [::]:8888: use of closed network connection
+[admin/server]2023/06/06 - 12:04:18.847	[31merror[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:20	accept tcp [::]:8888: use of closed network connection
+[admin/server]2023/06/06 - 12:08:47.398	[31merror[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:20	accept tcp [::]:8888: use of closed network connection
+[admin/server]2023/06/06 - 12:09:31.642	[31merror[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:20	accept tcp [::]:8888: use of closed network connection
+[admin/server]2023/06/06 - 12:49:38.328	[31merror[0m	/home/haola/workspace/fullstack/go-backend/api/sys_authority.go:94	获取失败!	{"error": "Error 1054 (42S22): Unknown column 'parent_id' in 'where clause'"}
+[admin/server]2023/06/06 - 12:49:40.177	[31merror[0m	/home/haola/workspace/fullstack/go-backend/api/sys_authority.go:94	获取失败!	{"error": "Error 1054 (42S22): Unknown column 'parent_id' in 'where clause'"}
+[admin/server]2023/06/06 - 12:51:14.557	[31merror[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:20	accept tcp [::]:8888: use of closed network connection
+[admin/server]2023/06/06 - 12:51:21.322	[31merror[0m	/home/haola/workspace/fullstack/go-backend/api/sys_authority.go:94	获取失败!	{"error": "Error 1054 (42S22): Unknown column 'parent_id' in 'where clause'"}
+[admin/server]2023/06/06 - 12:51:33.265	[31merror[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:20	accept tcp [::]:8888: use of closed network connection
+[admin/server]2023/06/06 - 12:53:11.629	[31merror[0m	/home/haola/workspace/fullstack/go-backend/api/sys_authority.go:94	获取失败!	{"error": "Error 1054 (42S22): Unknown column 'parent_id' in 'where clause'"}
+[admin/server]2023/06/06 - 12:56:43.534	[31merror[0m	/home/haola/workspace/fullstack/go-backend/api/sys_authority.go:94	获取失败!	{"error": "Error 1054 (42S22): Unknown column 'parent_id' in 'where clause'"}
+[admin/server]2023/06/06 - 12:58:08.666	[31merror[0m	/home/haola/workspace/fullstack/go-backend/api/sys_authority.go:94	获取失败!	{"error": "Error 1054 (42S22): Unknown column 'parent_id' in 'where clause'"}
+[admin/server]2023/06/06 - 12:58:51.116	[31merror[0m	/home/haola/workspace/fullstack/go-backend/api/sys_authority.go:94	获取失败!	{"error": "Error 1054 (42S22): Unknown column 'parent_id' in 'where clause'"}
+[admin/server]2023/06/06 - 13:00:32.290	[31merror[0m	/home/haola/workspace/fullstack/go-backend/api/sys_authority.go:94	获取失败!	{"error": "Error 1054 (42S22): Unknown column 'parent_id' in 'where clause'"}
+[admin/server]2023/06/06 - 13:00:40.806	[31merror[0m	/home/haola/workspace/fullstack/go-backend/api/sys_authority.go:94	获取失败!	{"error": "Error 1054 (42S22): Unknown column 'parent_id' in 'where clause'"}
+[admin/server]2023/06/06 - 13:01:14.827	[31merror[0m	/home/haola/workspace/fullstack/go-backend/api/sys_authority.go:94	获取失败!	{"error": "Error 1054 (42S22): Unknown column 'parent_id' in 'where clause'"}
+[admin/server]2023/06/06 - 13:02:02.881	[31merror[0m	/home/haola/workspace/fullstack/go-backend/api/sys_authority.go:94	获取失败!	{"error": "Error 1054 (42S22): Unknown column 'parent_id' in 'where clause'"}
+[admin/server]2023/06/06 - 13:02:46.804	[31merror[0m	/home/haola/workspace/fullstack/go-backend/api/sys_authority.go:94	获取失败!	{"error": "Error 1054 (42S22): Unknown column 'parent_id' in 'where clause'"}
+[admin/server]2023/06/06 - 13:02:50.824	[31merror[0m	/home/haola/workspace/fullstack/go-backend/api/sys_authority.go:94	获取失败!	{"error": "Error 1054 (42S22): Unknown column 'parent_id' in 'where clause'"}
+[admin/server]2023/06/06 - 13:03:06.693	[31merror[0m	/home/haola/workspace/fullstack/go-backend/api/sys_authority.go:94	获取失败!	{"error": "Error 1054 (42S22): Unknown column 'parent_id' in 'where clause'"}
+[admin/server]2023/06/06 - 13:03:26.380	[31merror[0m	/home/haola/workspace/fullstack/go-backend/api/sys_authority.go:94	获取失败!	{"error": "Error 1054 (42S22): Unknown column 'parent_id' in 'where clause'"}
+[admin/server]2023/06/06 - 13:04:09.758	[31merror[0m	/home/haola/workspace/fullstack/go-backend/api/sys_authority.go:94	获取失败!	{"error": "Error 1054 (42S22): Unknown column 'parent_id' in 'where clause'"}
+[admin/server]2023/06/06 - 13:06:12.936	[31merror[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:20	accept tcp [::]:8888: use of closed network connection
+[admin/server]2023/06/06 - 13:06:57.096	[31merror[0m	/home/haola/workspace/fullstack/go-backend/api/sys_authority.go:94	获取失败!	{"error": "sql: Scan error on column index 0, name \"created_at\": unsupported Scan, storing driver.Value type []uint8 into type *time.Time"}
+[admin/server]2023/06/06 - 13:12:59.785	[31merror[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:20	accept tcp [::]:8888: use of closed network connection
+[admin/server]2023/06/06 - 13:21:28.766	[31merror[0m	/home/haola/workspace/fullstack/go-backend/api/sys_authority.go:31	创建失败!	{"error": "角色已存在"}
+[admin/server]2023/06/06 - 13:21:35.388	[31merror[0m	/home/haola/workspace/fullstack/go-backend/api/sys_authority.go:31	创建失败!	{"error": "角色已存在"}
+[admin/server]2023/06/06 - 15:50:19.523	[31merror[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:20	accept tcp [::]:8888: use of closed network connection
+[admin/server]2023/06/06 - 15:52:24.615	[31merror[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:20	accept tcp [::]:8888: use of closed network connection
+[admin/server]2023/06/06 - 16:29:52.264	[31merror[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:20	accept tcp [::]:8888: use of closed network connection
+[admin/server]2023/06/06 - 16:41:35.290	[31merror[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:20	accept tcp [::]:8888: use of closed network connection
+[admin/server]2023/06/06 - 17:10:54.311	[31merror[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:20	accept tcp [::]:8888: use of closed network connection
+[admin/server]2023/06/06 - 17:19:19.528	[31merror[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:20	accept tcp [::]:8888: use of closed network connection
+[admin/server]2023/06/06 - 17:23:11.863	[31merror[0m	/home/haola/workspace/fullstack/go-backend/core/server.go:20	accept tcp [::]:8888: use of closed network connection
