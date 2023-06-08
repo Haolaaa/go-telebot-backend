@@ -105,3 +105,26 @@ func (s *SiteConfigApi) UpdateSiteConfig(c *gin.Context) {
 	}
 	response.OkWithMessage("更新成功", c)
 }
+
+func (s *SiteConfigApi) GetSiteConfigByID(c *gin.Context) {
+	var siteConfig model.SysSiteConfig
+	err := c.ShouldBindJSON(&siteConfig)
+	if err != nil {
+		response.FailWithMessage(err.Error(), c)
+		return
+	}
+	err = utils.Verify(siteConfig, utils.IdVerify)
+	if err != nil {
+		response.FailWithMessage(err.Error(), c)
+		return
+	}
+	res, err := siteConfigService.GetSiteConfigByID(siteConfig.SiteID, siteConfig.ParentName)
+	if err != nil {
+		global.LOG.Error("获取失败!", zap.Error(err))
+		response.FailWithMessage("获取失败", c)
+		return
+	}
+	response.OkWithDetailed(gin.H{
+		"siteConfig": res,
+	}, "获取成功", c)
+}
