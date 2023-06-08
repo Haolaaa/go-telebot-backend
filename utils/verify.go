@@ -9,6 +9,6 @@ var (
 	AuthorityVerify      = Rules{"AuthorityId": {NotEmpty()}, "AuthorityName": {NotEmpty()}}
 	AuthorityIdVerify    = Rules{"AuthorityId": {NotEmpty()}}
 	ChangePasswordVerify = Rules{"Password": {NotEmpty()}, "NewPassword": {NotEmpty()}}
-	SiteConfigVerify     = Rules{"ParentName": {NotEmpty()}, "SiteName": {NotEmpty()}, "SiteKey": {NotEmpty()}, "SiteID": {NotEmpty()}, "DirectPlayUrl": {NotEmpty()}, "CFPlayUrl": {NotEmpty()}, "CDNPlayUrl": {NotEmpty()}, "VideoCover": {NotEmpty()}, "DownloadUrl": {NotEmpty()}}
+	SiteConfigVerify     = Rules{"ParentName": {NotEmpty()}, "SiteName": {NotEmpty()}, "SiteKey": {NotEmpty()}, "SiteID": {NotEmpty()}}
 	SiteCOnfigIDVerify   = Rules{"ParentName": {NotEmpty()}, "SiteID": {NotEmpty()}}
 )
