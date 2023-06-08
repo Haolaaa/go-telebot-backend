@@ -64,6 +64,6 @@ func (s *SiteConfigService) UpdateSiteConfig(req model.SysSiteConfig) error {
 }
 
 func (s *SiteConfigService) GetSiteConfigByID(id int, parentName string) (siteConfig model.SysSiteConfig, err error) {
-	err = global.DB.Where("id = ? AND parent_name = ?", id, parentName).First(&siteConfig).Error
+	err = global.DB.Where("site_id = ? AND parent_name = ?", id, parentName).First(&siteConfig).Error
 	return
 }
