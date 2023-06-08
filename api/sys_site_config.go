@@ -113,7 +113,7 @@ func (s *SiteConfigApi) GetSiteConfigByID(c *gin.Context) {
 		response.FailWithMessage(err.Error(), c)
 		return
 	}
-	err = utils.Verify(siteConfig, utils.IdVerify)
+	err = utils.Verify(siteConfig, utils.SiteCOnfigIDVerify)
 	if err != nil {
 		response.FailWithMessage(err.Error(), c)
 		return
