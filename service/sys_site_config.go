@@ -5,6 +5,7 @@ import (
 	"admin/model"
 	"admin/model/common/request"
 	"errors"
+	"strings"
 	"time"
 
 	"gorm.io/gorm"
@@ -27,6 +28,11 @@ func (s *SiteConfigService) GetSiteConfigList(info request.PageInfo) (list inter
 
 func (s *SiteConfigService) AddSiteConfig(param model.SysSiteConfig) (err error) {
 	var siteConfig model.SysSiteConfig
+	param.CDNPlayUrl = strings.TrimSpace(param.CDNPlayUrl)
+	param.CFPlayUrl = strings.TrimSpace(param.CFPlayUrl)
+	param.DirectPlayUrl = strings.TrimSpace(param.DirectPlayUrl)
+	param.DownloadUrl = strings.TrimSpace(param.DownloadUrl)
+	param.VideoCover = strings.TrimSpace(param.VideoCover)
 	if !errors.Is(global.DB.Where("site_name = ?", param.SiteName).First(&siteConfig).Error, gorm.ErrRecordNotFound) {
 		return errors.New("存在相同站点名称")
 	}
